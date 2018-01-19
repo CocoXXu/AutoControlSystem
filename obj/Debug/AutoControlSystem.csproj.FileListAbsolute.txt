@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\bin\Debug\AutoControlSystem.exe.config
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\bin\Debug\AutoControlSystem.exe
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\bin\Debug\AutoControlSystem.pdb
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\obj\Debug\AutoControlSystem.Form1.resources
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\obj\Debug\AutoControlSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\obj\Debug\AutoControlSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\obj\Debug\AutoControlSystem.exe
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\obj\Debug\AutoControlSystem.pdb
+C:\Users\Administrator\Desktop\coco\AutoControlSystem\AutoControlSystem\obj\Debug\AutoControlSystem.csprojResolveAssemblyReference.cache
